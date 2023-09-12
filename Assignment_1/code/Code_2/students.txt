@@ -1,0 +1,6 @@
+Name: 2
+Desire: {'electric_control': False, 'mechanical': True, 'hardware': False, 'vision': False, 'operation': False}
+Vision direction: False
+Name: e
+Desire: {'electric_control': False, 'mechanical': False, 'hardware': False, 'vision': True, 'operation': False}
+Vision direction: DL
