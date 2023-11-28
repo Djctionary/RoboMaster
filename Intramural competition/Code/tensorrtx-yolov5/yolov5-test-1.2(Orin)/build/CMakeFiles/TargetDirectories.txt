@@ -1,0 +1,4 @@
+/home/nvidia/Desktop/yolov5-test/build/CMakeFiles/rebuild_cache.dir
+/home/nvidia/Desktop/yolov5-test/build/CMakeFiles/edit_cache.dir
+/home/nvidia/Desktop/yolov5-test/build/CMakeFiles/yolov5_det.dir
+/home/nvidia/Desktop/yolov5-test/build/CMakeFiles/myplugins.dir

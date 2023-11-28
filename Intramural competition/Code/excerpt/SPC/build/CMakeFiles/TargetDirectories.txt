@@ -1,0 +1,3 @@
+/home/vergil/Desktop/SPC/build/CMakeFiles/SPC.dir
+/home/vergil/Desktop/SPC/build/CMakeFiles/edit_cache.dir
+/home/vergil/Desktop/SPC/build/CMakeFiles/rebuild_cache.dir

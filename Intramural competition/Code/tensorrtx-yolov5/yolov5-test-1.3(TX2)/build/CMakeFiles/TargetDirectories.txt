@@ -1,0 +1,4 @@
+/home/vergil/Desktop/yolov5-test-1.3/build/CMakeFiles/edit_cache.dir
+/home/vergil/Desktop/yolov5-test-1.3/build/CMakeFiles/myplugins.dir
+/home/vergil/Desktop/yolov5-test-1.3/build/CMakeFiles/rebuild_cache.dir
+/home/vergil/Desktop/yolov5-test-1.3/build/CMakeFiles/yolov5_det.dir
